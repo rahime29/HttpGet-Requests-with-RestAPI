@@ -1,0 +1,15 @@
+a{
+    color:white;
+}
+
+#header{
+    font-size: 25px;
+}
+
+#loading{
+    display:none;
+}
+
+#mb-3{
+    margin-left: 120px;
+}
